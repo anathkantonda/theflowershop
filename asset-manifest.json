@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/theflowershop/static/css/main.14755c48.chunk.css",
+    "main.css": "/theflowershop/static/css/main.e71dd715.chunk.css",
     "main.js": "/theflowershop/static/js/main.59c9e00b.chunk.js",
     "main.js.map": "/theflowershop/static/js/main.59c9e00b.chunk.js.map",
     "runtime-main.js": "/theflowershop/static/js/runtime-main.88e73d64.js",
@@ -8,7 +8,7 @@
     "static/js/2.37ab0789.chunk.js": "/theflowershop/static/js/2.37ab0789.chunk.js",
     "static/js/2.37ab0789.chunk.js.map": "/theflowershop/static/js/2.37ab0789.chunk.js.map",
     "index.html": "/theflowershop/index.html",
-    "static/css/main.14755c48.chunk.css.map": "/theflowershop/static/css/main.14755c48.chunk.css.map",
+    "static/css/main.e71dd715.chunk.css.map": "/theflowershop/static/css/main.e71dd715.chunk.css.map",
     "static/js/2.37ab0789.chunk.js.LICENSE.txt": "/theflowershop/static/js/2.37ab0789.chunk.js.LICENSE.txt",
     "static/media/Fuschia.3880220b.jpg": "/theflowershop/static/media/Fuschia.3880220b.jpg",
     "static/media/Gardenia.29652c02.jpg": "/theflowershop/static/media/Gardenia.29652c02.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.88e73d64.js",
     "static/js/2.37ab0789.chunk.js",
-    "static/css/main.14755c48.chunk.css",
+    "static/css/main.e71dd715.chunk.css",
     "static/js/main.59c9e00b.chunk.js"
   ]
 }
