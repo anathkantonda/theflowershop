@@ -70,3 +70,56 @@ button:hover {
 .content {
   text-align: center;
 }
+
+@media only screen and (max-device-width: 720px){
+  h1 {
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+  }
+
+  .group-1,
+  .group-2,
+  .group-3 {
+    display: block;
+  }
+
+  img {
+    width: 200px;
+    height: 300px;
+  }
+
+  button{
+    margin-bottom: 20px;
+  }
+
+  .header,
+  .content {
+    text-align: left;
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px)
+{
+  h1 {
+    font-family: 'Courgette', cursive;
+    font-size: 35px;
+    text-align: center;
+    text-decoration-line: underline;
+  }
+
+  img {
+    width: 200px;
+    height: 300px;
+  }
+
+  button{
+    margin-bottom: 20px;
+  }
+
+  .header,
+  .content {
+    text-align: left;
+  }
+}
